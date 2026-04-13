@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in New York that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in New York, US",
+  "export_job_id": "4cff421b-c0e1-4f24-b4f5-d4a1f240bee7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 555466,
+  "location_name": "New York",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-new-york-us-sample-555466",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/555466/beamstation_555466_food_and_drink-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 1,
+  "sample_sha256": "7835b7e39e7f3cbe1646d07438876aa0d0bf3d053e82b0cd7890ece527d803f2",
+  "sample_size_bytes": 19162,
+  "total_records": 10,
+  "updated_at": "2026-04-07T17:25:05.544826+00:00"
+}

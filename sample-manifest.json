@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4cff421b-c0e1-4f24-b4f5-d4a1f240bee7",
+  "export_job_id": "9edbc25a-98a5-4d36-8489-486d48a19723",
   "id_short": 555466,
-  "published_at": "2026-04-13T19:19:10Z",
+  "published_at": "2026-04-18T19:21:49Z",
   "repo_name": "white-space-finder-in-new-york-us-sample-555466",
   "sample_asset_name": "beamstation_555466_food_and_drink-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/555466/beamstation_555466_food_and_drink-us-ny_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "7835b7e39e7f3cbe1646d07438876aa0d0bf3d053e82b0cd7890ece527d803f2",
-  "sample_size_bytes": 19162,
+  "sample_sha256": "5135193ca5f374342146879aa952da0ef30329d5a0eaa3e4dacee0c0edaef42c",
+  "sample_size_bytes": 20169,
   "total_records": 10
 }

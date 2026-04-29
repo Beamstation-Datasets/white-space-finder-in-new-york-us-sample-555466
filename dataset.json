@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in New York that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in New York, US",
-  "export_job_id": "10e67154-1344-4735-a970-31e9b83c023a",
+  "export_job_id": "98a1d46e-18d2-4df0-9872-3083e3d70c29",
   "github_org": "Beamstation-Datasets",
   "id_short": 555466,
   "location_name": "New York",
   "location_type": "state",
   "repo_name": "white-space-finder-in-new-york-us-sample-555466",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/555466/beamstation_555466_food_and_drink-us-ny_SAMPLE_DIST.csv",
-  "sample_pct": 6.67,
+  "sample_pct": 6.25,
   "sample_records": 1,
-  "sample_sha256": "1c39ab1153fc0620548109963783798d3b5a790a2500717313a24551486a9356",
-  "sample_size_bytes": 20171,
-  "total_records": 15,
-  "updated_at": "2026-04-22T02:18:42.961029+00:00"
+  "sample_sha256": "130a1a2b84280257f969dd604c4e1c01a20ce7ea81e0d1f036dfcde2fe09261e",
+  "sample_size_bytes": 19077,
+  "total_records": 16,
+  "updated_at": "2026-04-29T05:26:25.668828+00:00"
 }

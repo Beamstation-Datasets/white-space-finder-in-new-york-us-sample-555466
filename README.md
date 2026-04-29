@@ -9,9 +9,9 @@
 | Dataset ID | `555466` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 15 records |
-| Free sample size | 1 records (6.67%) |
-| Last export | 2026-04-22T02:18:42.961029+00:00 |
+| Full dataset size | 16 records |
+| Free sample size | 1 records (6.25%) |
+| Last export | 2026-04-29T05:26:25.668828+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-new-york-us-sample-555466/releases/download/sample-latest/beamstation_555466_food_and_drink-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
